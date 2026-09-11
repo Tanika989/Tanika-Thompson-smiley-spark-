@@ -100,6 +100,7 @@ image0
 A video presentation demonstrating the application's features will be provided here.
 
 Video link: https://mail.google.com/mail/u/0?ui=2&ik=8ccc71074a&attid=0.0&permmsgid=msg-f:1875391318415665199&th=1a06ba77c504682f&view=att&zw&disp=safe
+YouTube Video link https://youtube.com/shorts/LPcayISSpX8?feature=share
 
 The video demonstrates the main features of Social Spark and shows how the application works.
 
